@@ -45,7 +45,7 @@ This phase emphasized experimentation and architectural curiosity rather than fo
 
 ---
 
-## May 2025 – Shift Toward Decision-Control Thinking
+## Summer 2025 – Shift Toward Decision-Control Thinking
 
 - Completed formal security certification studies.
 - Began more deliberately exploring structured approaches to recording AI decisions.
